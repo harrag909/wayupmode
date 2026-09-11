@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    var form = document.querySelector('.gform');
+    var form = document.querySelector('');
     
     if (form) {
         form.addEventListener('submit', function (event) {
